@@ -22,7 +22,7 @@ Moderators will act on unwelcome posts when they are seen.
 
 Spam will be deleted and posters accounts will be reported to GitHub. Users who are determined to create an account in order to leave inflammatory comments on controversial topics will also have their comment either hidden or deleted and may be blocked from the Bitcoin organization.
 
-Moderators may lock controversial conversations or limit it to prior contributors or members of the Bitcoin organization.
+Moderators may lock conversations that are controversial, are being brigaded, or have otherwise gotten out of hand. During this time commenting will be unavailable to everyone (including members of the github org) until the end of the stated cool-down period.
 
 Moderators may reach out to contributors to ask them to self-moderate. In requesting self-moderation from contributors, moderators may ask for specific actions like editing or deleting the post in question, so as to avoid public shaming directed at the author or other escalations. Apologies can also be helpful to get the conversation back on track.
 
