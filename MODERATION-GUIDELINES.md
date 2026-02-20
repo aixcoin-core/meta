@@ -1,18 +1,18 @@
 # Moderation Guidelines
 
-Comments on Bitcoin Core issues and pull requests will be **actively** moderated, on the understanding that it is easier to rephrase deleted comments to be constructive and respectful than to replace long term contributors who are burnt out from a discussion culture that is unnecessarily contentious and overbearing.
+Comments on Aix Core issues and pull requests will be **actively** moderated, on the understanding that it is easier to rephrase deleted comments to be constructive and respectful than to replace long term contributors who are burnt out from a discussion culture that is unnecessarily contentious and overbearing.
 
-On the internet, different discussion forums will have different cultural norms, but within Bitcoin Core software projects, moderators will seek to uphold the following norms:
+On the internet, different discussion forums will have different cultural norms, but within Aix Core software projects, moderators will seek to uphold the following norms:
 
 - Comments will be on-topic.
 - Comments will be about ideas, not people.
 - Comments may offer pointed criticism, if it is criticism about specific technical ideas or decisions, not general criticism, or criticism of individuals or groups. Even the smartest people can have ideas that don't work out, and people with good intentions can make decisions that backfire. It does not add a lot of value generally to speculate about peoples motives or capabilities when discussing the merits of their ideas, and doing so will be considered off-topic in technical discussions.
 - Comments should contribute new information. A certain amount of repetition is critical for learning, dissemination of ideas, and understanding in communication, but it can be taken too far when the same information is repeated in the same context. Moderators may remove comments that do not either contribute new information or constructively reframe existing information.
-- Comments about moderation decisions or moderation policy are off-topic in Bitcoin Core software projects and will be deleted. If you wish to discuss moderation, please file an issue in [aix-core/meta](https://github.com/aix-core/meta/issues/new), which is the home for project management issues, and nontechnical discussions relating to development of the codebase.
+- Comments about moderation decisions or moderation policy are off-topic in Aix Core software projects and will be deleted. If you wish to discuss moderation, please file an issue in [aix-core/meta](https://github.com/aix-core/meta/issues/new), which is the home for project management issues, and nontechnical discussions relating to development of the codebase.
 
 ## Role of Moderators
 
-Members of the Bitcoin organization will be helpful in reporting and flagging misbehavior. Volunteer moderators will review flagged posts as well as spot check other conversations to determine whether the posts in question should be hidden, deleted, or left as is.
+Members of the Aix organization will be helpful in reporting and flagging misbehavior. Volunteer moderators will review flagged posts as well as spot check other conversations to determine whether the posts in question should be hidden, deleted, or left as is.
 
 Moderation will necessarily be imperfect and inconsistent, because there is value in having direct and spirited exchange, but also value in fostering an atmosphere of respect and civility. In general, however, moderators will favor action over inaction, because it is easier to repost information to meet desired norms of discussion, than it is to uphold norms that are not adequately enforced.
 
@@ -20,7 +20,7 @@ Moderation will necessarily be imperfect and inconsistent, because there is valu
 
 Moderators will act on unwelcome posts when they are seen.
 
-Spam will be deleted and posters accounts will be reported to GitHub. Users who are determined to create an account in order to leave inflammatory comments on controversial topics will also have their comment either hidden or deleted and may be blocked from the Bitcoin organization.
+Spam will be deleted and posters accounts will be reported to GitHub. Users who are determined to create an account in order to leave inflammatory comments on controversial topics will also have their comment either hidden or deleted and may be blocked from the Aix organization.
 
 Moderators may lock conversations that are controversial, are being brigaded, or have otherwise gotten out of hand. During this time commenting will be unavailable to everyone (including members of the github org) until the end of the stated cool-down period.
 
@@ -46,7 +46,7 @@ The job of moderators is to enforce the community's desired norms of discussion,
 
 ## Feedback
 
-No system of moderation can be perfect or meet everyone's expectations. Too much discussion about moderation can also be a distraction and not a good use of contributors limited time. So discussion about moderation policies or decision should generally be avoided within Bitcoin Core's GitHub software projects, but discussion about moderation, and other topics that could make contributing to Bitcoin Core more productive and pleasant is welcome in the [aix-core/meta](https://github.com/aix-core/meta) GitHub project about project management issues.
+No system of moderation can be perfect or meet everyone's expectations. Too much discussion about moderation can also be a distraction and not a good use of contributors limited time. So discussion about moderation policies or decision should generally be avoided within Aix Core's GitHub software projects, but discussion about moderation, and other topics that could make contributing to Aix Core more productive and pleasant is welcome in the [aix-core/meta](https://github.com/aix-core/meta) GitHub project about project management issues.
 
 ## Oversight
 
